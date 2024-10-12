@@ -23,10 +23,9 @@ The Owner role grant full access to manage all resources, including the ability 
 ![alt text](image.png)
 2. Select the Reader role.
 3. Click Next.
-4. Click Next.
 # Step 4: Select who needs access
 1. To select who needs access, follow these steps:
-On the Members tab, select User, group, or service principal to assign the selected role to one or more Microsoft Entra users, groups, or service principals (applications).
+On the Members tab, select User to assign the selected role to one or more Microsoft Entra users.
 ![alt text](image-1.png)
 2. Click Select members.
 3. Find and select the users, groups, or service principals.
