@@ -19,7 +19,19 @@ If you don't have permissions to assign roles, the Add role assignment option wi
 The Add role assignment page opens.
 # Step 3: Select the Owner role
 The Owner role grant full access to manage all resources, including the ability to assign roles in Azure RBAC. You should have a maximum of 3 subscription owners to reduce the potential for breach by a compromised owner.
-1. On the Role tab, select the Privileged administrator roles tab.
-![image](https://github.com/user-attachments/assets/52f140d0-b493-419d-878e-1de40e0e9e05)
+1. On the Role tab, select the Reader roles tab.
+![alt text](image.png)
 2. Select the Reader role.
 3. Click Next.
+4. Click Next.
+# Step 4: Select who needs access
+1. To select who needs access, follow these steps:
+On the Members tab, select User, group, or service principal to assign the selected role to one or more Microsoft Entra users, groups, or service principals (applications).
+![alt text](image-1.png)
+2. Click Select members.
+3. Find and select the users, groups, or service principals.
+You can type in the Select box to search the directory for display name or email address.
+![alt text](image-2.png)
+4. Click Select to add the users, groups, or service principals to the Members list.
+5. To assign the selected role to one or more managed identities, select Managed identity.
+6. Click Select members.
