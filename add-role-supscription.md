@@ -33,8 +33,7 @@ On the Members tab, select User, group, or service principal to assign the selec
 You can type in the Select box to search the directory for display name or email address.
 ![alt text](image-2.png)
 4. Click Select to add the users, groups, or service principals to the Members list.
-5. To assign the selected role to one or more managed identities, select Managed identity.
-6. Click Select members.
+5. Click Select members.
 # Step 5: Assign role
 Follow these steps:
 1. On the Review + assign tab, review the role assignment settings.
