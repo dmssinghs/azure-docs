@@ -32,7 +32,7 @@ On the Members tab, select User, group, or service principal to assign the selec
 3. Find and select the users, groups, or service principals.
 You can type in the Select box to search the directory for display name or email address.
 ![alt text](image-2.png)
-4. Click Select to add the users, groups, or service principals to the Members list.
+4. Click Select to add the user to the Members list.
 5. Click Select members.
 # Step 5: Assign role
 Follow these steps:
