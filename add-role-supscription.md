@@ -26,7 +26,7 @@ The Owner role grant full access to manage all resources, including the ability 
 # Step 4: Select who needs access
 1. To select who needs access, follow these steps:
 On the Members tab, select User to assign the selected role to one or more Microsoft Entra users.
-![alt text](image-1.png)
+![alt text](image-1-1.png)
 2. Click Select members.
 3. Find and select the user.
 You can type in the Select box to search the directory for display name or email address.
