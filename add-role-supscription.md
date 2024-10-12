@@ -28,7 +28,7 @@ The Owner role grant full access to manage all resources, including the ability 
 On the Members tab, select User to assign the selected role to one or more Microsoft Entra users.
 ![alt text](image-1.png)
 2. Click Select members.
-3. Find and select the users, groups, or service principals.
+3. Find and select the user.
 You can type in the Select box to search the directory for display name or email address.
 ![alt text](image-2.png)
 4. Click Select to add the user to the Members list.
