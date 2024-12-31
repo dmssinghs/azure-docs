@@ -70,4 +70,16 @@ gateway.gateway.networking.k8s.io/bookinfo-gateway annotated
 22. ubectl get gateway
 
 NAME               CLASS   ADDRESS   PROGRAMMED   AGE
+
 bookinfo-gateway   istio             False        55s
+
+23. kubectl get gateway
+
+NAME               CLASS   ADDRESS   PROGRAMMED   AGE
+
+bookinfo-gateway   istio             False        3m5s
+
+24. kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.22/samples/bookinfo/gateway-api/bookinfo-gateway.yaml
+
+gateway.gateway.networking.k8s.io/bookinfo-gateway configured<br>
+httproute.gateway.networking.k8s.io/bookinfo configured
