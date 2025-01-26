@@ -24,3 +24,5 @@ Databricks CLI using wenget https://learn.microsoft.com/en-us/azure/databricks/d
 https://code.visualstudio.com/docs/setup/windows
 
 https://code.visualstudio.com/docs#vscode
+
+https://kubernetes.io/docs/setup/
